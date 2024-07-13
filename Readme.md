@@ -31,3 +31,7 @@ morse_dict = {'A': '.-',     'B': '-...',   'C': '-.-.',
   '9': '----.' 
   }
 ```
+
+## Just a simple project
+
+How i approached it was pretty simple and the dictionary present explains everything on it's own.
