@@ -24,7 +24,10 @@ def to_morse(text):
   return morse_code
 
 
-if __name__ == "__main__":
+def main():
   user_input = input("Enter to convert: \n")
   morse_output = to_morse(user_input)
   print(f"Output Morse Code: \n{morse_output}")
+
+if __name__ == "__main__":
+  main()
